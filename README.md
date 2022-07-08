@@ -28,6 +28,8 @@ The counties were:
 -	Jefferson had 10.5% of the total votes and had a total of (38,855) votes
 -	Denver had 82.8% of the total votes and a total of (306,055) votes.
 -	Arapahoe had 6.7% of the total votes and a total of (24,801) votes.
+
+# alalysis
 By looking at the result of our Analysis we find out that:
 Denver is the largest County Turn Out with almost 83% of the total votes and Dianna won the election with almost 74% of the total votes.
  ![Election result](https://user-images.githubusercontent.com/49285767/178056907-686f76f4-b68e-48fc-a990-33e4d5201dc0.png)
